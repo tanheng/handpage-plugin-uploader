@@ -1,0 +1,25 @@
+{
+  "name": "handpage-plugin-uploader",
+  "version": "0.1.0",
+  "description": "handpage plugin for upload files/images to server.",
+  "main": "server/main.js",
+  "dependencies": {
+      "multer": ">1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evantan/handpage-plugin-uploader.git"
+  },
+  "keywords": [
+    "handpage",
+    "upload",
+    "uploader",
+    "capture"
+  ],
+  "author": "tanheng@is-keen.com",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
